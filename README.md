@@ -10,7 +10,7 @@
 <p align="center">
 <a href=https://richa-24.github.io/Richa_Singh_Portfolio/ target="_blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="Richa Singh" height="20" width="20" /></a>
 <a href=https://twitter.com/Richa_0724 target="_blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt=" Richa Singh" height="20" width="20" /></a>
-<a href=https://www.linkedin.com/in/ahsan-hyder-a27663135 target="_blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Richa Singh" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/richa-singh-227286190 target="_blank"><img align="center" height="30px" width="30px" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Richa Singh" height="20" width="20" /></a>
 </p>
 
 <p align="center">
