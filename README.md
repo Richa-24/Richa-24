@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I am a dedicated and passionate full stack developer trained and skilled in MERN stack at Masai school. I :gift_heart: Coding!
+  I am a dedicated and passionate full stack developer. I :gift_heart: Coding!
 </p>
   
 <h3 align="center">Tool & Technology</h3> 
