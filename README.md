@@ -17,7 +17,7 @@
   I am a dedicated and passionate full stack developer. I :gift_heart: Coding!
 </p>
   
-<h3 align="center">Tool & Technology</h3> 
+<h3 align="center">Tools & Technologies</h3> 
  <p align="center">
   <img height="90px" src=https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg >
  </p> 
